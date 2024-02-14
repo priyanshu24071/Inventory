@@ -1,3 +1,6 @@
+"""A fastapi application using dapr,pydantic
+"""
+
 from typing import List, Optional
 import os
 from fastapi import FastAPI, HTTPException, WebSocket
