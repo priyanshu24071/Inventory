@@ -1,0 +1,6 @@
+version: 1
+apps:
+  - appID: item-crud-sub
+    appDirPath: ./sub/
+    appPort: 8000
+    command: ["uvicorn", "app:app"]
