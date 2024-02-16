@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, Field
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field as PydanticField
 from dapr.ext.fastapi import DaprApp
 
