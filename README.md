@@ -10,6 +10,12 @@ The inventory management system allows users to perform CRUD (Create, Read, Upda
 ## Project Structure
 
 The project structure is as follows:
+ -pub
+  -app.py
+  -dapr.yaml
+ -sub
+  -app.py
+  -dapr.yaml
 
 
   
